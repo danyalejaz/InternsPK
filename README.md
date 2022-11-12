@@ -1,2 +1,1 @@
-# InternsPK
-InternsPK Projects
+# interns-pk-bootstrap-task
